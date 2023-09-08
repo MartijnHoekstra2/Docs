@@ -26,6 +26,12 @@ When writing a policy use the following format:
 
 
 
+_1. List item__  
+__1.1 List item
+_2. List item
+
+
+
 
 
 In addition to this you need to ensure you maintain a similar structure that usually includes:
