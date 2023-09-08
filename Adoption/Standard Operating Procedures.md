@@ -18,15 +18,15 @@ When writing a policy use the following format:
 * __Procedure__ - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
 
 In addition to this you need to ensure you maintain a similar structure that usually includes:
-1. Policy Name - Naming the policy and starting numbering
-  _Overview - Why does this policy exist?
-  _Purpose - What is this policy supposed to accomplish?
-  _Scope - Who or what does this policy apply to?
-  _Policy - The meat of the policy itself, broken down by numbering
-    _(example) 1.4.1 Contractor Responsibilities
-  _Compliance - How can this policy be validated / enforced? Are there any consequences for non-compliance?
-  _Document Control - Contains the version number, approver, policy owner. If changes to the policy occur the summary of changes is included here.
-  _Standards Addressed In This Document - This is optionally but if there are specific standards (like NIST,CIS,ISO/IEC, etc) that you are going to use. Reference exactly what standard(s) the policy is meant to tie back to.
+- Policy Name - Naming the policy and starting numbering
+ - - Overview - Why does this policy exist?
+Purpose - What is this policy supposed to accomplish?
+Scope - Who or what does this policy apply to?
+Policy - The meat of the policy itself, broken down by numbering
+(example) 1.4.1 Contractor Responsibilities
+Compliance - How can this policy be validated / enforced? Are there any consequences for non-compliance?
+Document Control - Contains the version number, approver, policy owner. If changes to the policy occur the summary of changes is included here.
+Standards Addressed In This Document - This is optionally but if there are specific standards (like NIST,CIS,ISO/IEC, etc) that you are going to use. Reference exactly what standard(s) the policy is meant to tie back to.
 
 Additionally to this:
 Write it in plain English so people can understand. Avoid technobabble and lawyer words if you can. The easiest it is to understand the great the chance people will comply.
