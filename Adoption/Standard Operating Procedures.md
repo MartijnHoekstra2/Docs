@@ -18,8 +18,11 @@ When writing a policy use the following format:
 * __Procedure__ - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
 
 In addition to this you need to ensure you maintain a similar structure that usually includes:
-1.  Policy Name - Naming the policy and starting numbering
-    1. Overview - Why does this policy exist?
+1. Policy Name - Naming the policy and starting numbering
+⋅⋅1. Overview - Why does this policy exist?
+
+
+
     2. Purpose - What is this policy supposed to accomplish?
     3. Scope - Who or what does this policy apply to?
     4. Policy - The meat of the policy itself, broken down by numbering
