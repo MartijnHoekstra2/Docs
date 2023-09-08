@@ -19,13 +19,6 @@ When writing a policy use the following format:
 
 
 ## Intro
-1. Head
-2. Sub
- - suby
-4. Sub2
-
-
-
 1. Dog
     1. German Shepherd
     2. Belgian Shepherd
