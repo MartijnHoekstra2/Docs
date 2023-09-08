@@ -26,9 +26,13 @@ When writing a policy use the following format:
 
 
 
-_1. Policy name__  
-__1.1 Overivew
-_2. Scope
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+  
 
 
 
