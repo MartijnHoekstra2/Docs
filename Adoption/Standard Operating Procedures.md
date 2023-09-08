@@ -18,12 +18,10 @@ When writing a policy use the following format:
 * __Procedure__ - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
 
 
-
+## Intro
 1. Head
 2. Sub
 3.     Sub of sub
-
-
 
 
 
