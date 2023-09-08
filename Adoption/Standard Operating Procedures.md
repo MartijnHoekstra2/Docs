@@ -28,8 +28,7 @@ When writing a policy use the following format:
 7. Document Control - Contains the version number, approver, policy owner. If changes to the policy occur the summary of changes is included here.
 8. Standards Addressed In This Document - This is optionally but if there are specific standards (like NIST,CIS,ISO/IEC, etc) that you are going to use. Reference exactly what standard(s) the policy is meant to tie back to.
 
-Additionally to this:
-
+### On top of the structure
 Write it in plain English so people can understand. Avoid technobabble and lawyer words if you can. The easiest it is to understand the great the chance people will comply.
 Write down what you understand the policy to do. Write it as bullets like I am doing here, and then worry about how to write it "properly." See 1.
 Once you are satisfied with the goals, scope, and requirements of the policy, see if any of it has already been defined in other policies. If so, rev
