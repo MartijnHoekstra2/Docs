@@ -19,7 +19,7 @@ When writing a policy use the following format:
 
 In addition to this you need to ensure you maintain a similar structure that usually includes:
 - Policy Name - Naming the policy and starting numbering
--  Overview - Why does this policy exist?
+    - Overview - Why does this policy exist?
 Purpose - What is this policy supposed to accomplish?
 Scope - Who or what does this policy apply to?
 Policy - The meat of the policy itself, broken down by numbering
