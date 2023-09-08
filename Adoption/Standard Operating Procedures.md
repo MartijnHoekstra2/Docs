@@ -1,10 +1,21 @@
-# Introduction
+# Policy writing guidance
+Follow the recommended writing guidance below when drafting a new or revising an existing policy.
 
-When writing a policy you should use the following format:
+## Tips
+* Keep it simple. Policies should be written in plain language – not legalese.
+* Keep it general. Policies cannot contemplate all possible situations. Policies should be written broadly but with enough clarity to apply to varying circumstances.
+* Make it relevant. The policy should clearly tell the audience why it exists, who it affects, major conditions and restrictions, when and under what circumstances it applies, and how it should be executed.
+* Check for accuracy and compliance.
+* Ensure the policy can be enforced.  A policy written without intention to enforce it, or written committing to obligations without ensuring proper resources, should not be written.
+* Clearly state who does what. Clearly articulate the roles and responsibilities of departments and individuals. Ensure the policy states who is authorized to make certain decisions and who is responsible for carrying out certain duties.
+* Less is more. A policy need not be lengthy. In many instances, shorter is better. The goal of the policy is to clearly convey important information concisely and in a clear manner. Longer policies can be difficult to understand, interpret, and apply
 
- * Policy - What, Must, and Why language. Typically you should define common terms and roles that are referenced in the Plan. Think high level, something you are comfortable showing to a stakeholder (executive).
- * Plan - Who, How and When language. Typically you should include contact information, process workflows, etc. Be specific enough that everyone from the team can handle a request if a procedure doesn't exist for it.
- * Procedure - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
+## Guidelines
+When writing a policy use the following format:
+
+* __Policy__ - What, Must, and Why language. Typically you should define common terms and roles that are referenced in the Plan. Think high level, something you are comfortable showing to a stakeholder (executive).
+* __Plan__ - Who, How and When language. Typically you should include contact information, process workflows, etc. Be specific enough that everyone from the team can handle a request if a procedure doesn't exist for it.
+* __Procedure__ - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
 
 In addition to this you need to ensure you maintain a similar structure that usually includes:
 1. Policy Name - Naming the policy and starting numbering
