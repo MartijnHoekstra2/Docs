@@ -19,8 +19,8 @@ When writing a policy use the following format:
 
 In addition to this you need to ensure you maintain a similar structure that usually includes:
 1. Policy Name - Naming the policy and starting numbering
-1.1 Overview - Why does this policy exist?
-1.2 Purpose - What is this policy supposed to accomplish?
+1.1. Overview - Why does this policy exist?
+1.2. Purpose - What is this policy supposed to accomplish?
 1.3 Scope - Who or what does this policy apply to?
 1.4 Policy - The meat of the policy itself, broken down by numbering
   (example) 1.4.1 Contractor Responsibilities
