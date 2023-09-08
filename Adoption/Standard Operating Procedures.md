@@ -18,32 +18,15 @@ When writing a policy use the following format:
 * __Procedure__ - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
 
 
-## Intro
-1. Dog
-    1. German Shepherd
-    2. Belgian Shepherd
-        1. Malinois
-        2. Groenendael
-        3. Tervuren
-  
-
-
-
-
-
-In addition to this you need to ensure you maintain a similar structure that usually includes:
+## Structure
 1. Policy Name - Naming the policy and starting numbering
-⋅⋅1. Overview - Why does this policy exist?
-
-
-
-    2. Purpose - What is this policy supposed to accomplish?
-    3. Scope - Who or what does this policy apply to?
-    4. Policy - The meat of the policy itself, broken down by numbering
-        1. (example) 1.4.1 Contractor Responsibilities
-   5. Compliance - How can this policy be validated / enforced? Are there any consequences for non-compliance?
-   6. Document Control - Contains the version number, approver, policy owner. If changes to the policy occur the summary of changes is included here.
-   7. Standards Addressed In This Document - This is optionally but if there are specific standards (like NIST,CIS,ISO/IEC, etc) that you are going to use. Reference exactly what standard(s) the policy is meant to tie back to.
+2. Overview - Why does this policy exist
+3. Purpose - What is this policy supposed to accomplish?
+4. Scope - Who or what does this policy apply to?
+5. Policy - The meat of the policy itself, broken down by numbering
+6. Compliance - How can this policy be validated / enforced? Are there any consequences for non-compliance?
+7. Document Control - Contains the version number, approver, policy owner. If changes to the policy occur the summary of changes is included here.
+8. Standards Addressed In This Document - This is optionally but if there are specific standards (like NIST,CIS,ISO/IEC, etc) that you are going to use. Reference exactly what standard(s) the policy is meant to tie back to.
 
 Additionally to this:
 Write it in plain English so people can understand. Avoid technobabble and lawyer words if you can. The easiest it is to understand the great the chance people will comply.
