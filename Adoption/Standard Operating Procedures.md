@@ -21,7 +21,7 @@ When writing a policy use the following format:
 ## Intro
 1. Head
 2. Sub
-3.     Sub of sub
+3.     Sub
 
 
 
