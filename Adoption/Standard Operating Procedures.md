@@ -17,6 +17,19 @@ When writing a policy use the following format:
 * __Plan__ - Who, How and When language. Typically you should include contact information, process workflows, etc. Be specific enough that everyone from the team can handle a request if a procedure doesn't exist for it.
 * __Procedure__ - Specific technical workflow, step-by-step how to complete certain work using your exact toolset. Could contain Screenshots, checklists, hyperlinks, etc..
 
+
+
+1. Head
+2. Sub
+3.     Sub of sub
+
+
+
+
+
+
+
+
 In addition to this you need to ensure you maintain a similar structure that usually includes:
 1. Policy Name - Naming the policy and starting numbering
 ⋅⋅1. Overview - Why does this policy exist?
