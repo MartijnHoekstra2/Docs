@@ -1,4 +1,4 @@
-## Hi there
+# Introduction
 
 When writing a policy you should use the following format:
 
