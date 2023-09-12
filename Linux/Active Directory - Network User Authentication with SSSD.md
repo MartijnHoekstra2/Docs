@@ -57,6 +57,7 @@ If you install krb5-user, your AD users will also get a kerberos ticket upon log
 Note: realm also configured /etc/krb5.conf for you, so there should be no further configuration prompts when installing krb5-user
 
 Let’s test with smbclient using kerberos authentication to list he shares of the domain controller: john@ad1.example.com@ad-client:~$  smbclient -k -L server1.ad1.example.com
+
 Notice how we now have a ticket for the cifs service, which was used for the share list above: john@ad1.example.com@ad-client:~$ klist
 
 # References
